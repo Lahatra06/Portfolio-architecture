@@ -77,7 +77,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h4 className="mb-1 text-gray-900">Email</h4>
-                    <p className="text-gray-600">contact@architech-solutions.fr</p>
+                    <p className="text-gray-600">contact@architech.fr</p>
                   </div>
                 </div>
 
