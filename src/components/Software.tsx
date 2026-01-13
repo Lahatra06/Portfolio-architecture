@@ -33,12 +33,6 @@ const software = [
     category: 'Rendu',
   },
   {
-    icon: Grid3x3,
-    name: 'Rhino',
-    description: 'Modélisation NURBS pour formes complexes',
-    category: '3D',
-  },
-  {
     icon: Layers,
     name: 'Lumion',
     description: 'Visualisation architecturale en temps réel',
