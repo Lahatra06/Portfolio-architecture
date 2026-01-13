@@ -82,8 +82,8 @@ export function Software() {
               <p className="text-gray-700">Logiciels professionnels</p>
             </div>
             <div>
-              {/* <div className="text-3xl mb-2 text-blue-600">15+</div>
-              <p className="text-gray-700">Années d'expertise</p> */}
+              <div className="text-3xl mb-2 text-blue-600">7/24</div>
+              <p className="text-gray-700">Disponible de suite à tout moment</p>
             </div>
             <div>
               <div className="text-3xl mb-2 text-blue-600">3+</div>
