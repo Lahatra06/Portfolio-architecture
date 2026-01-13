@@ -78,16 +78,16 @@ export function Software() {
         <div className="mt-12 bg-blue-50 border border-blue-200 rounded-xl p-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
             <div>
-              <div className="text-3xl mb-2 text-blue-600">8+</div>
+              <div className="text-3xl mb-2 text-blue-600">7+</div>
               <p className="text-gray-700">Logiciels professionnels</p>
             </div>
             <div>
-              <div className="text-3xl mb-2 text-blue-600">15+</div>
-              <p className="text-gray-700">Années d'expertise</p>
+              {/* <div className="text-3xl mb-2 text-blue-600">15+</div>
+              <p className="text-gray-700">Années d'expertise</p> */}
             </div>
             <div>
-              <div className="text-3xl mb-2 text-blue-600">100%</div>
-              <p className="text-gray-700">Certifiés professionnels</p>
+              <div className="text-3xl mb-2 text-blue-600">3+</div>
+              <p className="text-gray-700">Ingénieur en Bâtiment et Travaux Publics</p>
             </div>
           </div>
         </div>
