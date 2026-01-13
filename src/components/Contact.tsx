@@ -54,9 +54,9 @@ export function Contact() {
                   <div>
                     <h4 className="mb-1 text-gray-900">Adresse</h4>
                     <p className="text-gray-600">
-                      25 Avenue des Champs-Élysées
+                      IVB 38 Ambohimanala Andoharanofotsy
                       <br />
-                      75008 Paris, France
+                      102 Antananarivo, Madagascar
                     </p>
                   </div>
                 </div>
@@ -66,8 +66,8 @@ export function Contact() {
                     <Phone className="text-blue-600" size={24} />
                   </div>
                   <div>
-                    <h4 className="mb-1 text-gray-900">Téléphone</h4>
-                    <p className="text-gray-600">+33 1 23 45 67 89</p>
+                    <h4 className="mb-1 text-gray-900">Téléphone (Whatsapp)</h4>
+                    <p className="text-gray-600">+261 34 46 371 09</p>
                   </div>
                 </div>
 
@@ -115,7 +115,7 @@ export function Contact() {
           </div>
 
           {/* Contact Form */}
-          <div className="bg-gray-50 p-8 rounded-lg">
+          {/* <div className="bg-gray-50 p-8 rounded-lg">
             <h3 className="text-2xl mb-6 text-gray-900">Demande de Devis</h3>
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
@@ -212,7 +212,7 @@ export function Contact() {
                 </div>
               )}
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
 
